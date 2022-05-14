@@ -1,4 +1,4 @@
-# ESP32-LVGL8.2-SD_CARD-Squareline_Studio
+# ESP32+Platformio+LVGL8.2+SD_CARD+Squareline_Studio
 refer to the project name
 
 This project is based on VS code with platformio.
